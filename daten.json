@@ -1,0 +1,126 @@
+{
+  "firma": "Bio-Gärtnerei Lemberghof",
+  "stelle": "Abteilungsleiter Produktion (m/w/d)",
+  "ort": "Erdmannhausen",
+  "plz": "71729",
+  "farbe_primary": "#718B44",
+  "farbe_secondary": "#485645",
+  "region_badge": "Erdmannhausen & Umgebung",
+  "benefit_top": "Volle Verantwortung: Leitung der Bio-Kräuterproduktion",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag & vermögenswirksame Leistungen",
+    "Interne Karrierechancen",
+    "Flache Hierarchien",
+    "Hilfe bei der Wohnungssuche",
+    "Freundliches Arbeitsklima & Getränke-Flatrate",
+    "Keine Montageeinsätze mit Übernachtung"
+  ],
+  "aufgaben": [
+    "Du leitest die Kulturführung als Hauptverantwortlicher – von der Anbauplanung bis zur Pflanzenpflege",
+    "Du organisierst und führst das Kulturführungsteam – einteilen, anweisen, motivieren",
+    "Du planst Flächennutzung und Anbauphasen und organisierst Bewässerung, Düngung und Pflanzenschutz"
+  ],
+  "anforderung": "Gärtnermeister (m/w/d) oder vergleichbare Qualifikation mit Erfahrung in der Leitung von Produktionsprozessen – idealerweise mit Pflanzenschutz-Sachkundenachweis.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Gartenbau / Gärtnerei",
+      "icon": "🌱",
+      "qualifikationen": [
+        {
+          "label": "Gärtnermeister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Ausgebildeter Gärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren in Produktion & Führung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Landwirtschaft / Gemüsebau",
+      "icon": "🌾",
+      "qualifikationen": [
+        {
+          "label": "Meister / Techniker Landwirtschaft",
+          "icon": "🏅"
+        },
+        {
+          "label": "Ausbildung Landwirtschaft / Gemüsebau",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Ausbildung in anderem Gewerk",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "30",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "50",
+        "label": "Kräutersorten"
+      },
+      {
+        "zahl": "10+",
+        "label": "Jahre Bioland"
+      }
+    ],
+    "text": "Die Bio-Gärtnerei Lemberghof GmbH aus Erdmannhausen ist auf Bio-Topfkräuter spezialisiert – seit fast 20 Jahren, seit über 10 Jahren nach Bioland-Richtlinien. Rund 50 Kräutersorten von Basilikum bis Thymian wachsen hier ganzjährig – für den Lebensmitteleinzelhandel, den Biogroßhandel, regionale Gartencenter und den Großmarkt Stuttgart."
+  },
+  "kunde_tab": "04 Bio-Gärtnerei Lemberghof GmbH",
+  "quelle": "https://lemberghof.green-careers.de",
+  "logo": "logo.jpg",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Erdmannhausen"
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/f1.jpg",
+    "img/f2.jpg",
+    "img/f3.jpg",
+    "img/f4.jpg",
+    "img/f5.jpg",
+    "img/f6.jpg"
+  ]
+}
