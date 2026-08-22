@@ -1,0 +1,37 @@
+[
+  {
+    "name": "creative-1-benefit-checkliste",
+    "bilder": [
+      "logo.jpg",
+      "img/f1.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'Bio-Gärtnerei Lemberghof' (grüner Schriftzug mit Blätter-Symbol), (2) ein Foto einer Person, die durch ein Gewächshaus voller Basilikum-Kulturen geht. Nutze das Foto unverändert als rechte Bildhälfte, links eine ruhige dunkle graugrüne Fläche (#33402F) mit dezentem Verlauf. Layout links, von oben nach unten: Headline (groß, fett, weiß): „ABTEILUNGSLEITER“ mit Zusatz darunter „Produktion (m/w/d)“. Standort-Zeile mit kleinem roten Pin-Symbol: „Erdmannhausen bei Ludwigsburg“. 4 Benefit-Pills (weiße abgerundete Balken mit grünem Häkchen, schwarze Schrift): „Volle Produktionsverantwortung“ / „Unbefristeter Arbeitsvertrag“ / „Flache Hierarchien“ / „Hilfe bei der Wohnungssuche“. Unten ein Balken in Olivgrün (#718B44, weiße Schrift): „Erhalte Dein unverbindliches Job-Angebot – ohne Lebenslauf & Anschreiben“. Das beigefügte Logo original und unverändert oben links auf weißer Mini-Kachel. Sauberes, modernes Recruiting-Design, gut lesbar auf dem Handy. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-2-produktion-collage",
+    "bilder": [
+      "logo.jpg",
+      "img/f3.jpg",
+      "img/f4.jpg",
+      "img/f5.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als moderne Foto-Collage im Raster (2 Spalten). Beigefügt: (1) das Firmenlogo 'Bio-Gärtnerei Lemberghof', (2) Foto einer Gewächshaus-Kulturfläche voller Kräuter, (3) Foto von Bio-Topfkräutern im Verkaufsregal, (4) Foto des Teams beim Verpacken der Kräuter. Oben links eine weiße Kachel mit dem beigefügten Logo (original, unverändert), darunter groß „Abteilungsleiter Produktion“ + klein „(m/w/d)“ + Standort-Zeile mit rotem Pin-Symbol „Erdmannhausen · Raum Ludwigsburg“. Die drei Fotos unverändert als gleich große Kacheln mit schmalen weißen Stegen verteilen. Unten rechts eine Kachel in Olivgrün (#718B44, weiße Schrift): „Jetzt unverbindliches Job-Angebot erhalten – mit 1 Klick!“. Clean, hell, wie ein echter Einblick in den Betrieb. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-3-standort-karte",
+    "bilder": [
+      "logo.jpg",
+      "img/karte.jpg",
+      "img/f6.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'Bio-Gärtnerei Lemberghof', (2) eine Landkarte der Region Erdmannhausen (mit Ludwigsburg, Backnang, Stuttgart im Umkreis), (3) ein Foto des Gärtnerei-Betriebs von außen. Untere zwei Drittel: die Landkarte unverändert, male einen kräftigen roten Kreis (Handdraw-Stil) um die Bildmitte der Karte und einen dicken roten Pfeil, der von schräg oben auf den Kreis zeigt. Oberes Drittel: weiße Fläche mit links „ABTEILUNGSLEITER“ (groß, schwarz) + „Produktion (m/w/d)“ + Kachel in Olivgrün „Ohne Lebenslauf & Anschreiben!“ (weiße Schrift, #718B44), rechts daneben das Betriebs-Foto unverändert als kleine abgerundete Kachel; das beigefügte Logo original und unverändert oben rechts. Auf der Karte selbst KEINEN zusätzlichen Text ergänzen (nur Kreis + Pfeil). Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-4-deine-produktion",
+    "bilder": [
+      "logo.jpg",
+      "img/hero.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'Bio-Gärtnerei Lemberghof', (2) eine Luftaufnahme des Gärtnerei-Betriebs mit großen Gewächshäusern. Die Luftaufnahme unverändert als vollflächigen Hintergrund, unten ein weicher dunkler Verlauf für Lesbarkeit. Text unten, clean gesetzt: Headline (groß, weiß, fett): „Deine Produktion: 50 Bio-Kräutersorten.“ Subline (kleiner, weiß, mit kleinem Pin-Symbol): „Abteilungsleiter Produktion (m/w/d) · Erdmannhausen bei Ludwigsburg“. Button-Balken in Olivgrün (#718B44, weiße Schrift): „Job-Angebot in 60 Sekunden erhalten“. Das beigefügte Logo original und unverändert oben links auf weißer Mini-Kachel. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]
