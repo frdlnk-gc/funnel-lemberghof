@@ -1,0 +1,38 @@
+[
+ {
+  "name": "creative-5-leitung-produktion",
+  "logo": "logo.jpg",
+  "foto": "img/f2.jpg",
+  "primary": "#718B44",
+  "kicker": "BIO-GÄRTNEREI LEMBERGHOF SUCHT",
+  "headline": [
+   "Leite die",
+   "Bio-Kräuterproduktion."
+  ],
+  "subline": "Abteilungsleiter Produktion (m/w/d) · Erdmannhausen & Umgebung",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.45
+  ],
+  "kicker_ink": "#FFFFFF"
+ },
+ {
+  "name": "creative-6-ohne-lebenslauf",
+  "logo": "logo.jpg",
+  "foto": "img/f1.jpg",
+  "primary": "#718B44",
+  "kicker": "ERDMANNHAUSEN · MARBACH · LUDWIGSBURG",
+  "headline": [
+   "Ohne Lebenslauf.",
+   "Ohne Anschreiben."
+  ],
+  "subline": "Abteilungsleiter Produktion (m/w/d) · In 60 Sekunden bewerben",
+  "cta": "Jetzt Job-Angebot sichern",
+  "fokus": [
+   0.45,
+   0.45
+  ],
+  "kicker_ink": "#FFFFFF"
+ }
+]
